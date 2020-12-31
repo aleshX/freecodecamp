@@ -1,0 +1,43 @@
+.wrap{
+    width: 95% auto;
+    height: 95% auto;
+    background-color:#d2d9d4;
+    margin: 2% auto;
+}
+
+.header{
+    width: 85% auto;
+    height: 20%;
+    background-color: #d2d9d4;
+    padding: 30px;
+    border: none;
+    margin-top: 30px;
+}
+
+
+.text{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80% auto;
+}
+
+.items{
+    width: 600px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px auto;
+}
+
+.picture{
+    width: 85% auto;
+    background-color: #ffffff;
+    padding: 30px auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
